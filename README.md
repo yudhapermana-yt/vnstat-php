@@ -10,7 +10,7 @@ Useful in keeping track of bandwidth use for applications like php-proxy:
 Login to your linux machine, and run this command:
 
 ```shell
-bash <(wget -O - https://raw.githubusercontent.com/Athlon1600/vnstat-php/master/install.sh)
+bash <(wget -O - https://raw.githubusercontent.com/yudhapermana-yt/vnstat-php/master/install.sh)
 ```
 
 This will install the actual `vnstat` package, and then put it online using the built in server included with PHP. 

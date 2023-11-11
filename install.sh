@@ -7,4 +7,4 @@ cd /usr/local/vnstat-php || exit
 
 wget https://raw.githubusercontent.com/yudhapermana-yt/vnstat-php/master/vnstat.php
 
-nohup php -S 0.0.0.0:60222 vnstat.php > phpd.log 2>&1 &
+nohup php -S 0.0.0.0:55555 vnstat.php > phpd.log 2>&1 &
